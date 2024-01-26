@@ -1,0 +1,34 @@
+{
+  "LANGUAGE": {
+    "LANGUAGE_WORD": "Langue"
+  },
+  "COMMON": {
+    "ACTIONS": {
+      "CREATE": "Créer",
+      "REMOVE": "Retirer",
+      "DELETE": "Supprimer",
+      "EDIT": "Modifier",
+      "DUPLICATE": "Dupliquer",
+      "APPLY": "Appliquer",
+      "UPDATE": "Mettre à jour",
+      "HIDE": "Cacher"
+    }
+  },
+  "SETTINGS": {
+    "ACCOUNT": {
+      "PROFILE_TITLE": "Profil",
+      "MY_PROFILE": "Mon profil",
+      "IMPORT_EXPORT_TITLE": "Importer et Exporter",
+      "NAVIGATION_TITLE": "Navigation",
+      "AUTHENTICATION_TITLE": "Authentification",
+      "AUTHENTICATION": {
+        "KEYWORDS": "Se déconnecter Se déconnecter Méthode de connexion Google Ajouter Déconnecter Se connecter S'inscrire"
+      },
+      "ADVANCED_TITLE": "Réglages avancés",
+      "DANGER_ZONE_TITLE": "Zone de danger",
+      "DANGER_ZONE": {
+        "TITLE": "Zone de danger"
+      }
+    }
+  }
+}
