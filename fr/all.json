@@ -29,6 +29,25 @@
       "DANGER_ZONE": {
         "TITLE": "Zone de danger"
       }
+    },
+    "EARN_CREDIT": {
+      "EMAIL_PLACEHOLDER": "amicurieux@gmail.com"
     }
+  },
+  "TABLES": {
+    "PRIMARY_COLUMN_TITLE": "Nom",
+    "MENUS": {
+      "FILTER": {
+        "FILTER_TITLE": "Filtrer"
+      },
+      "TABLE_CONFIGURATION": {
+        "VIEW_AS": {
+          "NORMAL_PORTAL_VIEW": "Portail"
+        }
+      }
+    }
+  },
+  "SIDEBAR": {
+    "LABEL_TUTORIALS": "Tutoriels"
   }
 }
